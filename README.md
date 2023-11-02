@@ -9,7 +9,7 @@
 
 Shortkit is a lightweight menu bar tool for macOS that runs custom commands.
 
-![Screenshot](https://lucasradouch.com/assets/images/shortkit/shortkit-screenshot.png)
+![Screenshot](https://lucasradouch.com/assets/images/shortkit/shortkit-screenshot.png?)
 
 ## System Requirements
 
